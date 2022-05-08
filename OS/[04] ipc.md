@@ -16,10 +16,17 @@
 - 두 프로세스간 **공유된 메모리**를 생성 후 이용하는 것
 - 성능이 좋지만 동기화 문제 발생
 
-#### `하나의 PC에서의 프로세스 통신 방법`
+#### `=> 하나의 PC에서의 프로세스 통신 방법`
 
 ### 3. Socket
 
 ### 4. 원격 프로시저 호출 (RPC: Remote Procedure Call)
 
-#### `Client-Server 관계인 다른 PC의 프로세스간 통신 방법`
+#### `=> Client-Server 관계인 다른 PC의 프로세스간 통신 방법`
+
+---
+
+## Reference
+
+- https://jhnyang.tistory.com/24
+- https://deveun.tistory.com/entry/OS-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%9D%98-%ED%86%B5%EC%8B%A0-IPC-Inter-Process-Communication
