@@ -13,7 +13,7 @@
 
 ## 프로세스 메모리 구조
 
-## <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9c470866-5dfb-46bb-9ab6-ad049b0ec2e0/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220508%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220508T061833Z&X-Amz-Expires=86400&X-Amz-Signature=dbdf1b3cbd3decd5911ae41a4131a5e2fdac580c54966758f4462b2195e50529&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" />
+<img src="https://user-images.githubusercontent.com/49153756/95016525-769c2780-068e-11eb-9c04-22da6a232278.png" />
 
 - text (code segment)
   - 코드 데이터 (컴파일 된 코드)
